@@ -1,0 +1,47 @@
+body {background-color: deepskyblue;}
+     
+    h1 {color: beige;}
+    h1 {border-style: dashed;}
+    h1 {text-align: center;}
+
+    img {width: 350px;}
+
+    img  { display: block;
+    margin-left: auto;
+    margin-right: auto}
+
+    h2 {color: gold;}
+    h2 {text-decoration-line: underline;}
+    h3 {text-align: center;}
+
+    p {color: black;}
+
+    h5 {text-align: center;}
+    h5 {color: gold;}
+    h5 {font-size: larger;}
+
+    li {color: azure;}
+
+    p {font-family: Georgia, 'Times New Roman', Times, serif;}
+
+    p {outline-style: double;
+    outline-color: floralwhite;}
+   
+    iframe {display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+    h4 {text-align: center;}
+
+   .Summary {color: azure;}
+   
+   .Bulk of Website {font-family: Georgia, 'Times New Roman', Times, serif;}
+   
+   .tableauPlaceholder { display: block;
+    margin-left: auto;
+    margin-right: auto;}
+    
+
+
+
+
